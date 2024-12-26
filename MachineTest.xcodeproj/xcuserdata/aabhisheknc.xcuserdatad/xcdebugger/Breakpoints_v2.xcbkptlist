@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94488FBC-FE94-4832-B5BE-F23F334E4751"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9277CF5E-AAFE-4E7A-8BE3-CBBEB1A6B867"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MachineTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BEFC9EB-7904-49F8-A2BD-B6F8B5E355EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MachineTest/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "logOneEvent(data:response:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "8BEFC9EB-7904-49F8-A2BD-B6F8B5E355EE - f5b9889cf080af52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MachineTest.logOneEvent(data: Foundation.Data, response: __C.NSURLResponse) -&gt; ()"
+                  moduleName = "MachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aabhisheknc/Downloads/MachineTest_abhishek%202/MachineTest/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "8BEFC9EB-7904-49F8-A2BD-B6F8B5E355EE - f5b9889cf080af33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MachineTest.logOneEvent(data: Foundation.Data, response: __C.NSURLResponse) -&gt; ()"
+                  moduleName = "MachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aabhisheknc/Downloads/MachineTest_abhishek%202/MachineTest/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "8BEFC9EB-7904-49F8-A2BD-B6F8B5E355EE - 8bb2cde47dd88512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MachineTest.logOneEvent(data: Foundation.Data, response: __C.NSURLResponse) -&gt; ()"
+                  moduleName = "MachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aabhisheknc/Downloads/Clean+UIKit+Combine/MachineTest/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36851625-5D9A-42CF-A49A-EA9B8D23D455"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MachineTest/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "logEvents()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36851625-5D9A-42CF-A49A-EA9B8D23D455 - a8693cb8f9c6b243"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine.Publisher&lt; where &#x3c4;_0_0.Output == (data: Foundation.Data, response: __C.NSURLResponse)&gt;.logEvents() -&gt; Combine.Publishers.HandleEvents&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "MachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aabhisheknc/Downloads/MachineTest_abhishek%202/MachineTest/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "36851625-5D9A-42CF-A49A-EA9B8D23D455 - a8693cb8f9c6b260"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine.Publisher&lt; where &#x3c4;_0_0.Output == (data: Foundation.Data, response: __C.NSURLResponse)&gt;.logEvents() -&gt; Combine.Publishers.HandleEvents&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "MachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aabhisheknc/Downloads/MachineTest_abhishek%202/MachineTest/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "36851625-5D9A-42CF-A49A-EA9B8D23D455 - d66279c0749e9f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Combine.Publisher&lt; where &#x3c4;_0_0.Output == (data: Foundation.Data, response: __C.NSURLResponse)&gt;.logEvents() -&gt; Combine.Publishers.HandleEvents&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "MachineTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aabhisheknc/Downloads/Clean+UIKit+Combine/MachineTest/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
